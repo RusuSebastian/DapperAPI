@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "Learning Path 3\WebApi.csproj", "{A876C6AE-5669-4E3D-9FC7-A0075966381A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E450EC69-295B-47C6-BE3C-EAC303723E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{9C960D84-D44F-4FBC-95C0-1399699736D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A876C6AE-5669-4E3D-9FC7-A0075966381A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A876C6AE-5669-4E3D-9FC7-A0075966381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A876C6AE-5669-4E3D-9FC7-A0075966381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A876C6AE-5669-4E3D-9FC7-A0075966381A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E450EC69-295B-47C6-BE3C-EAC303723E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E450EC69-295B-47C6-BE3C-EAC303723E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E450EC69-295B-47C6-BE3C-EAC303723E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E450EC69-295B-47C6-BE3C-EAC303723E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C960D84-D44F-4FBC-95C0-1399699736D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C960D84-D44F-4FBC-95C0-1399699736D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C960D84-D44F-4FBC-95C0-1399699736D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C960D84-D44F-4FBC-95C0-1399699736D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B99E7B2-813F-4923-9184-61BA4C6EF72E}
+	EndGlobalSection
+EndGlobal

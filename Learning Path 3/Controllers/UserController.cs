@@ -57,7 +57,6 @@ namespace WebApi.Controllers
             return Ok();
         }
 
-
         [HttpDelete]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public IActionResult DeleteUser (Guid ID_User)
